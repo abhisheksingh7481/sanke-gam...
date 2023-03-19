@@ -1,5 +1,5 @@
 
-//ludo game in c game progaram//
+//sanke game in c  progaram  language//
 
 
 #include <stdio.h>
